@@ -1,4 +1,4 @@
 numpy==1.26.3
 streamlit==1.30.0
-tensorflow==2.12.0.post1
-pillow==11.2.1
+tensorflow # This will install the latest stable TensorFlow.
+Pillow<11 
